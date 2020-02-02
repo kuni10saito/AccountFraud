@@ -7,9 +7,13 @@ undesample.csv
 
 列リスト
 Class	dt1	dt2	dt3	dt4	dt5	dt6	dt7	dt8	dt9	dt10	dt11	dt12	dt13	dt14	Acc	LI
+
 Class：目的変数
+
 dt1～dt14：総資産などの前年度からの増減値
+
 Acc：アクルーアル（会計発生高）dt*から計算
+
 Li：
 
 
